@@ -1,0 +1,8 @@
+Cerveza Imperial 473cc;14731;300
+Cerveza Imperial Roja 473cc;14732;320
+Cerveza Imperial Ipa 473cc;14733;320
+Cerveza Heineken 473cc;24731;400
+Cerveza Stella Artois 473cc;34731;420
+Cerveza Schneider 473cc;44731;270
+Cerveza Patagonia 410cc;54101;400
+Cerveza Corona 330ml;63301;400
